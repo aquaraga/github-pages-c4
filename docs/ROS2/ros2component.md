@@ -1,3 +1,3 @@
 # ROS2 - Component
 
-{% include svg.html file="ros2component.svg" %}
+<img src="ros2component.svg">
