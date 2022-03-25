@@ -1,3 +1,3 @@
 # ROS2 - Context
 
-{% include svg.html file="ros2context.svg" %}
+<img src="./ros2context.svg">
