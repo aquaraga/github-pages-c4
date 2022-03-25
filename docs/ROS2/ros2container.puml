@@ -12,12 +12,12 @@ Container(Planning, "Planning",  "Produce a trajectory towards a provided goal. 
 Container(Control, "Control", "Nodes and libraries related to the controller functionalities of the vehicle. They enable the autonomous vehicle to follow a reference trajectory appropriately by converting the input trajectory into longitudinal and lateral commands.")
 Container(VehicleInterface, "Vehicle Interface", "Sensor/Actuator Drivers")
 
-url of Sensing is [[./ros2component]]
-url of Localization is [[./ros2component]]
-url of Perception is [[./ros2component]]
-url of Planning is [[./ros2component]]
-url of Control is [[./ros2component]]
-url of VehicleInterface is [[./ros2component]]
+url of Sensing is [[./ros2component.svg]]
+url of Localization is [[./ros2component.svg]]
+url of Perception is [[./ros2component.svg]]
+url of Planning is [[./ros2component.svg]]
+url of Control is [[./ros2component.svg]]
+url of VehicleInterface is [[./ros2component.svg]]
  
 System_Ext(Vehicle, "Vehicle", "The Autonomous Vehicle") 
 System_Ext(Sensors, "Sensors", "Lidar, Camera, GPS etc.")

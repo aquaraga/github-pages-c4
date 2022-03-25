@@ -10,8 +10,8 @@ Component_Ext(DDS, "DDS Middleware library", "DDS Library from DDS vendor(Fast R
 Component(usercodeCpp, "User Code", "C++", "User code, no direct access to DDS MW")
 Component(usercodePy, "User Code", "Py", "User code, no direct access to DDS MW")
 
-url of usercodeCpp is [[./ros2sequence]]
-url of usercodePy is [[./ros2sequence]]
+url of usercodeCpp is [[./ros2sequence.svg]]
+url of usercodePy is [[./ros2sequence.svg]]
 
 
 
